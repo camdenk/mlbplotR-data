@@ -1,4 +1,5 @@
 player_name,last_first,chadwick_name,espn_name,savant_id,bbref_id,retro_id,fangraphs_id,espn_id,espn_headshot
+Luis Ortiz,"Ortiz, Luis",Luis Ortiz,Luis Ortiz,656814,ortizlu02,ortil002,16942,2966,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/2966.png
 Alex Rodriguez,"Rodriguez, Alex",Alex Rodriguez,Alex Rodriguez,121347,rodrial01,rodra001,1274,3115,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3115.png
 LaTroy Hawkins,"Hawkins, LaTroy",LaTroy Hawkins,LaTroy Hawkins,115629,hawkila01,hawkl001,729,3176,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3176.png
 Joe Hudson,"Hudson, Joe",Joe Hudson,Joe Hudson,621529,hudsojo03,hudsj002,14412,3258,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3258.png
@@ -230,7 +231,6 @@ Chris Stewart,"Stewart, Chris",Chris Stewart,Chris Stewart,455755,stewach01,stew
 Adam Lind,"Lind, Adam",Adam Lind,Adam Lind,452252,lindad01,linda001,8027,28579,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/28579.png
 David Murphy,"Murphy, David",David Murphy,David Murphy,461815,murphda07,murpd005,6035,28582,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/28582.png
 Miguel Montero,"Montero, Miguel",Miguel Montero,Miguel Montero,471083,montemi01,montm001,3364,28586,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/28586.png
-Luis Ortiz,"Ortiz, Luis",Luis Ortiz,Luis Ortiz,656814,ortizlu02,ortil002,16942,2966,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/2966.png
 Eric Stults,"Stults, Eric",Eric Stults,Eric Stults,445590,stulter01,stule002,8011,28591,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/28591.png
 Joaquin Arias,"Arias, Joaquin",Joaquin Arias,Joaquin Arias,435078,ariasjo01,ariaj001,3817,28603,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/28603.png
 Ryan Feierabend,"Feierabend, Ryan",Ryan Feierabend,Ryan Feierabend,456387,feierry01,feier001,6336,28611,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/28611.png
@@ -1689,6 +1689,7 @@ Cameron Perkins,"Perkins, Cameron",Cameron Perkins,Cameron Perkins,573088,perkic
 Zac Reininger,"Reininger, Zac",Zac Reininger,Zac Reininger,643617,reiniza01,reinz001,15285,33509,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33509.png
 Rafael Bautista,"Bautista, Rafael",Rafael Bautista,Rafael Bautista,622441,bautira01,bautr001,15769,33510,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33510.png
 Richard Bleier,"Bleier, Richard",Richard Bleier,Richard Bleier,542947,bleieri01,bleir001,7803,33513,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33513.png
+,,Elier Hernandez,Elier Hernandez,609274,hernael02,herne003,,33517,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33517.png
 Jack López,"López, Jack",Jack Lopez,Jack Lopez,605346,lopezja03,lopej005,13663,33518,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33518.png
 Ramón Torres,"Torres, Ramón",Ramon Torres,Ramon Torres,593527,torrera01,torrr002,14113,33519,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33519.png
 Humberto Arteaga,"Arteaga, Humberto",Humberto Arteaga,Humberto Arteaga,600858,arteahu01,arteh001,13595,33522,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33522.png
@@ -2409,10 +2410,12 @@ Cole Sulser,"Sulser, Cole",Cole Sulser,Cole Sulser,642121,sulseco01,sulsc001,152
 Jordan Hicks,"Hicks, Jordan",Jordan Hicks,Jordan Hicks,663855,hicksjo03,hickj002,19618,37909,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37909.png
 Evan Phillips,"Phillips, Evan",Evan Phillips,Evan Phillips,623465,phillev01,phile001,17734,37911,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37911.png
 Seby Zavala,"Zavala, Seby",Seby Zavala,Seby Zavala,664874,zavalse01,zavas001,18887,37919,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37919.png
+,,Tyler Cyr,Tyler Cyr,664202,cyrty01,cyr-t001,,37972,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37972.png
 Jake Fraley,"Fraley, Jake",Jake Fraley,Jake Fraley,641584,fraleja01,fralj001,19260,37974,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37974.png
 Ian Gibaut,"Gibaut, Ian",Ian Gibaut,Ian Gibaut,664139,gibauia01,gibai001,17871,37979,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37979.png
 Daniel Zamora,"Zamora, Daniel",Daniel Zamora,Daniel Zamora,623354,zamorda01,zamod001,17811,38019,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/38019.png
 Tim Peterson,"Peterson, Tim",Tim Peterson,Tim Peterson,623402,peterti01,petet001,13946,38020,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/38020.png
+,,Conner Capel,Conner Capel,668843,capelco01,capec001,,38029,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/38029.png
 Adonis Rosa,"Rosa, Adonis",Adonis Rosa,Adonis Rosa,650738,rosaad01,rosaa004,17942,38101,
 Nick Anderson,"Anderson, Nick",Nick Anderson,Nick Anderson,623433,anderni01,anden001,18337,38102,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/38102.png
 Phillips Valdez,"Valdez, Phillips",Phillips Valdez,Phillips Valdez,570488,valdeph01,valdp002,15605,38104,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/38104.png
@@ -2698,6 +2701,7 @@ Kirby Snead,"Snead, Kirby",Kirby Snead,Kirby Snead,669912,sneadki01,sneak001,191
 Rafael Marchan,"Marchan, Rafael",Rafael Marchan,Rafael Marchan,665561,marchra01,marcr001,21646,40816,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40816.png
 Yadiel Hernandez,"Hernandez, Yadiel",Yadiel Hernández,Yadiel Hernandez,628450,hernaya01,herny002,19334,40822,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40822.png
 ,,Oswaldo Cabrera,Oswaldo Cabrera,665828,cabreos01,,,40835,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40835.png
+,,Josh Lester,Josh Lester,623507,lestejo02,lestj002,,40837,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40837.png
 Ty Tice,"Tice, Ty",Ty Tice,Ty Tice,676709,ticety01,ticet001,20177,40845,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40845.png
 ,,Jose Herrera,Jose Herrera,645444,herrejo04,herrj003,17040,40851,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40851.png
 Jo Adell,"Adell, Jo",Jo Adell,Jo Adell,666176,adelljo01,adelj001,20220,40854,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40854.png
@@ -2710,6 +2714,7 @@ Bryan Baker,"Baker, Bryan",Bryan Baker,Bryan Baker,641329,bakerbr01,bakeb001,198
 ,,Darick Hall,Darick Hall,669742,hallda02,halld003,,40889,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40889.png
 ,,Ji Hwan Bae,Ji Hwan Bae,678225,baeji01,bae-j001,23818,40896,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40896.png
 ,,Miles Mastrobuoni,Miles Mastrobuoni,670156,mastrmi01,mastm001,20017,40900,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40900.png
+,,J. P. Martínez,J.P. Martinez,679881,martijp01,,,40905,
 Shane Bieber,"Bieber, Shane",Shane Bieber,Shane Bieber,669456,biebesh01,biebs001,19427,40912,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40912.png
 Dereck Rodríguez,"Rodríguez, Dereck",Dereck Rodriguez,Dereck Rodriguez,605446,rodride01,rodrd001,14509,40913,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40913.png
 Ian Anderson,"Anderson, Ian",Ian Anderson,Ian Anderson,666120,anderia01,andei001,19951,40916,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40916.png
@@ -2729,8 +2734,10 @@ Dustin May,"May, Dustin",Dustin May,Dustin May,669160,maydu01,may-d003,19716,409
 Andrés Muñoz,"Muñoz, Andrés",Andres Munoz,Andres Munoz,662253,munozan01,munoa002,20373,40939,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40939.png
 T.J. Zeuch,"Zeuch, T.J.",T. J. Zeuch,T.J. Zeuch,643615,zeuchtj01,zeuct001,19269,40941,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40941.png
 Edward Cabrera,"Cabrera, Edward",Edward Cabrera,Edward Cabrera,665795,cabreed02,cabre003,21690,40944,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40944.png
+,,Alex Speas,Alex Speas,666208,,,,40946,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40946.png
 Anthony Kay,"Kay, Anthony",Anthony Kay,Anthony Kay,641743,kayan01,kay-a001,20387,40947,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40947.png
 ,,MJ Melendez,MJ Melendez,669004,melenmj01,melem001,22197,40948,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40948.png
+,,Luis Medina,Luis Medina,665622,,,,40949,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40949.png
 Tony Santillan,"Santillan, Tony",Tony Santillan,Tony Santillan,663574,santito01,santt001,19926,40950,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40950.png
 Jose Barrero,"Barrero, Jose",José Barrero,Jose Barrero,676480,garcijo02,garcj007,23378,40951,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40951.png
 Wil Crowe,"Crowe, Wil",Wil Crowe,Wil Crowe,640444,crowewi01,croww001,19800,40957,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40957.png
@@ -2839,12 +2846,14 @@ Erich Uelmen,"Uelmen, Erich",Erich Uelmen,Erich Uelmen,657272,uelmeer01,uelme001
 Carlos Hernández,"Hernández, Carlos",Carlos Hernandez,Carlos Hernandez,672578,hernaca04,hernc006,22713,41233,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41233.png
 ,,Michael Grove,Michael Grove,675627,grovemi01,grovm001,23221,41242,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41242.png
 Tommy Doyle,"Doyle, Tommy",Tommy Doyle,Tommy Doyle,656382,doyleto01,doylt001,21281,41243,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41243.png
+,,Owen White,Owen White,669391,whiteow01,whito001,22273,41244,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41244.png
 ,,Jared Solomon,Jared Solomon,676660,solomja01,soloj001,,41245,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41245.png
 Luis Barrera,"Barrera, Luis",Luis Barrera,Luis Barrera,642456,barrelu01,barrl001,19615,41251,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41251.png
 ,,Francisco Álvarez,Francisco Alvarez,682626,alvarfr01,alvaf001,26121,41253,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41253.png
 Brandon Bielak,"Bielak, Brandon",Brandon Bielak,Brandon Bielak,656232,bielabr01,bielb001,19866,41260,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41260.png
 Cristian Javier,"Javier, Cristian",Cristian Javier,Cristian Javier,664299,javiecr01,javic001,17606,41261,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41261.png
 Kyle Isbel,"Isbel, Kyle",Kyle Isbel,Kyle Isbel,664728,isbelky01,isbek001,21614,41263,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41263.png
+,,Yerry Rodriguez,Yerry Rodriguez,666720,rodriye01,rodry002,21955,41267,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41267.png
 ,,Jeremy Pena,Jeremy Pena,665161,penaje02,penaj004,21636,41273,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41273.png
 Kutter Crawford,"Crawford, Kutter",Kutter Crawford,Kutter Crawford,676710,crawfku01,crawk001,20531,41277,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41277.png
 Jonathan Stiever,"Stiever, Jonathan",Jonathan Stiever,Jonathan Stiever,680692,stievjo01,stiej001,24584,41279,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41279.png
@@ -2856,11 +2865,13 @@ Matt Peacock,"Peacock, Matt",Matt Peacock,Matt Peacock,676840,peacoma01,peacm001
 Edwin Uceta,"Uceta, Edwin",Edwin Uceta,Edwin Uceta,670955,ucetaed01,ucete001,20539,41308,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41308.png
 Justin Lawrence,"Lawrence, Justin",Justin Lawrence,Justin Lawrence,664875,lawreju01,lawrj002,17639,41310,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41310.png
 ,,Kody Clemens,Kody Clemens,665019,clemeko01,clemk001,20572,41311,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41311.png
+,,Luken Baker,Luken Baker,663609,,,,41313,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41313.png
 Nick Nelson,"Nelson, Nick",Nick Nelson,Nick Nelson,656793,nelsoni01,nelsn001,20153,41319,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41319.png
 Eli Morgan,"Morgan, Eli",Eli Morgan,Eli Morgan,669212,morgael01,morge001,20203,41324,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41324.png
 Aaron Ashby,"Ashby, Aaron",Aaron Ashby,Aaron Ashby,676879,ashbyaa01,ashba003,23550,41325,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41325.png
 Cory Abbott,"Abbott, Cory",Cory Abbott,Cory Abbott,676265,abbotco01,abboc001,20277,41328,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41328.png
 Camilo Doval,"Doval, Camilo",Camilo Doval,Camilo Doval,666808,dovalca01,dovac001,21992,41337,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41337.png
+,,Jonathan Ornelas,Jonathan Ornelas,680716,orneljo01,ornej001,24597,41339,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41339.png
 Brandon Waddell,"Waddell, Brandon",Brandon Waddell,Brandon Waddell,663399,waddebr01,waddb001,18347,41351,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41351.png
 Geraldo Perdomo,"Perdomo, Geraldo",Geraldo Perdomo,Geraldo Perdomo,672695,perdoge01,perdg001,22799,41355,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41355.png
 Connor Seabold,"Seabold, Connor",Connor Seabold,Connor Seabold,657756,seaboco01,seabc001,19695,41367,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41367.png
@@ -2906,6 +2917,7 @@ Jeremy Walker,"Walker, Jeremy",Jeremy Walker,Jeremy Walker,668683,walkeje02,walk
 Ralph Garza Jr.,"Garza Jr., Ralph",Ralph Garza,Ralph Garza Jr.,621248,garzara01,garzr001,17682,41527,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41527.png
 Rodolfo Castro,"Castro, Rodolfo",Rodolfo Castro,Rodolfo Castro,666801,castrro01,castr006,21987,41532,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41532.png
 ,,Gus Varland,Gus Varland,681402,,,,41552,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41552.png
+,,Matt Krook,Matt Krook,640454,krookma01,kroom002,19315,41556,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41556.png
 Mauricio Llovera,"Llovera, Mauricio",Mauricio Llovera,Mauricio Llovera,661440,llovema01,llovm001,20080,41564,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41564.png
 Spenser Watkins,"Watkins, Spenser",Spenser Watkins,Spenser Watkins,657093,watkisp01,watks003,17489,41567,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41567.png
 Ryan Jeffers,"Jeffers, Ryan",Ryan Jeffers,Ryan Jeffers,680777,jeffery01,jeffr002,24618,41587,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41587.png
@@ -2949,6 +2961,7 @@ Otto Lopez,"Lopez, Otto",Otto Lopez,Otto Lopez,672640,lopezot01,lopeo001,19608,4
 Eduard Bazardo,"Bazardo, Eduard",Eduard Bazardo,Eduard Bazardo,660825,bazared01,bazae001,20997,41939,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41939.png
 ,,Sean Bouchard,Sean Bouchard,656248,bouchse01,boucs001,,41989,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41989.png
 Steven Kwan,"Kwan, Steven",Steven Kwan,Steven Kwan,680757,kwanst01,kwans001,24610,41996,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41996.png
+,,Lane Ramsey,Lane Ramsey,682010,ramsela02,ramsl001,25071,41997,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41997.png
 Kyle Nelson,"Nelson, Kyle",Kyle Nelson,Kyle Nelson,669459,nelsoky01,nelsk001,20515,42004,
 ,,Vinny Capra,Vinny Capra,681962,capravi01,caprv001,25040,42023,
 ,,Logan O'Hoppe,Logan O'Hoppe,681351,ohopplo01,ohopl001,24729,42047,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42047.png
@@ -2961,7 +2974,9 @@ Mac Sceroler,"Sceroler, Mac",Mac Sceroler,Mac Sceroler,669135,sceroma01,scerm001
 ,,Bryan Lavastida,Bryan Lavastida,681526,lavasbr01,lavab001,24765,42133,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42133.png
 Codi Heuer,"Heuer, Codi",Codi Heuer,Codi Heuer,676051,heuerco01,heuec001,23293,42138,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42138.png
 Jose Rodriguez,"Rodriguez, Jose",Jose Rodríguez,Jose Rodriguez,642578,rodrijo07,rodrj006,17860,42141,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42141.png
+,,Grant Anderson,Grant Anderson,681982,andergr01,andeg002,,42161,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42161.png
 Zach Plesac,"Plesac, Zach",Zach Plesac,Zach Plesac,668676,plesaza01,plesz001,19979,42169,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42169.png
+,,Adam Oller,Adam Oller,670124,ollerad01,ollea001,20132,42170,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42170.png
 Anthony Bender,"Bender, Anthony",Anthony Bender,Anthony Bender,669622,bendean01,benda001,19742,42171,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42171.png
 Adley Rutschman,"Rutschman, Adley",Adley Rutschman,Adley Rutschman,668939,rutscad01,rutsa001,26288,42178,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42178.png
 ,,Riley Greene,Riley Greene,682985,greenri03,greer003,25976,42179,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42179.png
@@ -2984,6 +2999,7 @@ Tejay Antone,"Antone, Tejay",Tejay Antone,Tejay Antone,622088,antonte01,antot001
 Blake Cederlind,"Cederlind, Blake",Blake Cederlind,Blake Cederlind,664977,cederbl01,cedeb001,20344,42357,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42357.png
 Humberto Mejía,"Mejía, Humberto",Humberto Mejia,Humberto Mejia,650668,mejiahu01,mejih001,20739,42358,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42358.png
 Cristopher Sánchez,"Sánchez, Cristopher",Cristopher Sanchez,Cristopher Sanchez,650911,sanchcr01,sancc002,20778,42359,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42359.png
+,,Curtis Mead,Curtis Mead,678554,meadcu01,meadc001,23986,42360,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42360.png
 Miguel Yajure,"Yajure, Miguel",Miguel Yajure,Miguel Yajure,664337,yajurmi01,yajum001,21111,42361,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42361.png
 Tyson Miller,"Miller, Tyson",Tyson Miller,Tyson Miller,668338,millety01,millt003,19976,42362,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42362.png
 Manuel Rodríguez,"Rodríguez, Manuel",Manuel Rodriguez,Manuel Rodriguez,655889,rodrima01,rodrm001,20794,42363,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42363.png
@@ -3003,6 +3019,7 @@ Tarik Skubal,"Skubal, Tarik",Tarik Skubal,Tarik Skubal,669373,skubata01,skubt001
 ,,Brett Baty,Brett Baty,683146,batybr01,,,42414,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42414.png
 Bryson Stott,"Stott, Bryson",Bryson Stott,Bryson Stott,681082,stottbr01,stotb001,26294,42417,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42417.png
 ,,Matt Wallner,Matt Wallner,670242,wallnma01,wallm001,26466,42427,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42427.png
+,,Peyton Burdick,Peyton Burdick,680814,burdipe01,burdp001,,42428,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42428.png
 Nick Lodolo,"Lodolo, Nick",Nick Lodolo,Nick Lodolo,666157,lodolni01,lodon001,26378,42433,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42433.png
 Alek Manoah,"Manoah, Alek",Alek Manoah,Alek Manoah,666201,manoaal01,manoa001,26410,42436,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42436.png
 ,,Josh Jung,Josh Jung,673962,jungjo01,jungj001,,42437,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42437.png
@@ -3055,6 +3072,7 @@ Austin Warren,"Warren, Austin",Austin Warren,Austin Warren,681810,warreau01,warr
 ,,Jhony Brito,Jhony Brito,666745,,,,42864,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42864.png
 ,,Kirk McCarty,Kirk McCarty,668948,mccarki01,mccak003,20555,42919,
 ,,Christopher Morel,Christopher Morel,666624,morelch01,morec001,21897,42927,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42927.png
+,,Joey Ortiz,Joey Ortiz,687401,,,,42958,
 Jake Cousins,"Cousins, Jake",Jake Cousins,Jake Cousins,664776,cousija01,cousj001,21620,42964,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42964.png
 Connor Overton,"Overton, Connor",Connor Overton,Connor Overton,656818,overtco01,overc001,18376,42972,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42972.png
 ,,Hayden Wesneski,Hayden Wesneski,669713,wesneha01,wesnh001,,42996,
@@ -3070,10 +3088,12 @@ Collin Snider,"Snider, Collin",Collin Snider,Collin Snider,676092,snideco01,snid
 Jake Latz,"Latz, Jake",Jake Latz,Jake Latz,656641,latzja01,latzj001,21306,3210625,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3210625.png
 Tylor Megill,"Megill, Tylor",Tylor Megill,Tylor Megill,656731,megilty01,megit002,21318,3332018,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3332018.png
 ,,Jake Bird,Jake Bird,656234,birdja01,birdj001,,3459223,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3459223.png
+,,J. P. France,J.P. France,641585,,,,3662290,
 Caleb Baragar,"Baragar, Caleb",Caleb Baragar,Caleb Baragar,670056,baragca01,barac001,19231,3728070,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3728070.png
 Sean Guenther,"Guenther, Sean",Sean Guenther,Sean Guenther,674944,guentse01,guens001,20045,3896017,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3896017.png
 Nick Allgeyer,"Allgeyer, Nick",Nick Allgeyer,Nick Allgeyer,680430,allgeni01,allgn001,24486,3896101,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3896101.png
 Chad Smith,"Smith, Chad",Chad Smith,Chad Smith,605477,smithch09,smitc003,13604,3960877,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3960877.png
+,,Cody Morris,Cody Morris,663752,morrico01,,,3960993,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3960993.png
 ,,Cam Alldred,Cam Alldred,682027,alldrca01,alldc001,25078,3961202,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3961202.png
 ,,Parker Mushinski,Parker Mushinski,656786,mushipa01,mushp001,,3963032,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3963032.png
 ,,Ethan Roberts,Ethan Roberts,681799,roberet01,robee001,24930,3963340,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3963340.png
@@ -3090,6 +3110,7 @@ Hyeon-Jong Yang,"Yang, Hyeon-Jong",Hyeon-jong Yang,Hyeon-Jong Yang,660365,yanghy
 ,,Shintaro Fujinami,Shintaro Fujinami,660261,,,,4142398,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4142398.png
 ,,Kodai Senga,Kodai Senga,673540,,,,4142421,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4142421.png
 Seiya Suzuki,"Suzuki, Seiya",Seiya Suzuki,Seiya Suzuki,673548,suzukse01,suzus001,30116,4142424,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4142424.png
+,,Cody Bradford,Cody Bradford,674003,bradfco01,bradc003,,4142539,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4142539.png
 ,,Robert Suarez,Robert Suarez,663158,suarero01,suarr002,30115,4148749,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4148749.png
 Jon Heasley,"Heasley, Jon",Jon Heasley,Jon Heasley,669169,heasljo01,heasj001,22224,4179560,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4179560.png
 ,,Hunter Gaddis,Hunter Gaddis,683769,gaddihu01,gaddh001,,4187661,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4187661.png
@@ -3097,26 +3118,45 @@ Jon Heasley,"Heasley, Jon",Jon Heasley,Jon Heasley,669169,heasljo01,heasj001,222
 ,,Xzavion Curry,Xzavion Curry,675540,,,,4204524,
 ,,Ryan Pepiot,Ryan Pepiot,686752,pepiory01,pepir001,,4208281,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4208281.png
 ,,Ron Marinaccio,Ron Marinaccio,676760,marinro01,marir001,23488,4228723,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4228723.png
+,,Heston Kjerstad,Heston Kjerstad,677008,kjershe01,kjerh001,31166,4297758,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4297758.png
 Garrett Crochet,"Crochet, Garrett",Garrett Crochet,Garrett Crochet,676979,crochga01,crocg001,27463,4297835,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4297835.png
+,,Emerson Hancock,Emerson Hancock,676106,hancoem01,,27470,4297897,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4297897.png
+,,Bryce Jarvis,Bryce Jarvis,686826,,,,4297972,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4297972.png
+,,Jordan Westburg,Jordan Westburg,676059,westbjo01,westj002,27815,4298641,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4298641.png
 Cody Wilson,"Wilson, Cody",Cody Wilson,Cody Wilson,680963,wilsoco01,wilsc005,24671,4299734,
 ,,Bryce Elder,Bryce Elder,693821,elderbr01,eldeb001,27779,4301067,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4301067.png
 Garrett Hill,"Hill, Garrett",Garrett Hill,Garrett Hill,682051,hillga02,hillg002,25097,4301941,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4301941.png
 Spencer Strider,"Strider, Spencer",Spencer Strider,Spencer Strider,675911,stridsp01,stris002,27498,4307825,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4307825.png
 ,,Cade Cavalli,Cade Cavalli,676917,cavalca01,cavac001,,4308037,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4308037.png
+,,Nick Robertson,Nick Robertson,687798,roberni01,roben002,,4311413,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4311413.png
 Kyle Bradish,"Bradish, Kyle",Kyle Bradish,Kyle Bradish,680694,bradiky01,bradk001,24586,4311625,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4311625.png
 ,,Garrett Mitchell,Garrett Mitchell,669003,mitchga01,mitcg001,,4313442,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4313442.png
 Reid Detmers,"Detmers, Reid",Reid Detmers,Reid Detmers,672282,detmere01,detmr001,27468,4326697,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4326697.png
+,,Bobby Miller,Bobby Miller,676272,millebo06,millb005,,4326703,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4326703.png
 ,,Alec Burleson,Alec Burleson,676475,burleal01,burla001,,4345070,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4345070.png
+,,Gavin Williams,Gavin Williams,668909,williga01,willg004,30122,4345076,
 ,,Max Meyer,Max Meyer,676974,meyerma01,meyem001,,4345164,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4345164.png
 ,,Tanner Bibee,Tanner Bibee,676440,,,,4345278,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4345278.png
+,,Patrick Bailey,Patrick Bailey,672275,bailepa01,bailp001,,4345843,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4345843.png
 ,,Chase Silseth,Chase Silseth,681217,silsech01,silsc001,30074,4413990,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4413990.png
+,,Andrew Abbott,Andrew Abbott,671096,,,,4414528,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4414528.png
+,,Zack Gelof,Zack Gelof,680869,gelofza01,,,4414531,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4414531.png
 ,,Drey Jameson,Drey Jameson,686753,jamesdr01,jamed003,26260,4415753,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4415753.png
 ,,Dylan Dodd,Dylan Dodd,689266,,,,4416462,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4416462.png
+,,Colton Cowser,Colton Cowser,681297,cowseco01,cowsc001,29591,4416990,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4416990.png
 ,,Joey Wiemer,Joey Wiemer,686894,,,,4417134,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4417134.png
+,,Gavin Stone,Gavin Stone,694813,stonega01,stong001,,4417230,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4417230.png
+,,Henry Davis,Henry Davis,680779,davishe01,davih001,29617,4418683,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4418683.png
+,,Matt McLain,Matt McLain,680574,mclaima01,mclam001,,4422899,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4422899.png
+,,Tommy Henry,Tommy Henry,674072,,,,4423337,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4423337.png
+,,Alec Marsh,Alec Marsh,679525,marshal01,marsa001,27451,4424276,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4424276.png
 Spencer Torkelson,"Torkelson, Spencer",Spencer Torkelson,Spencer Torkelson,679529,torkesp01,torks001,27465,4424286,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4424286.png
 Lars Nootbaar,"Nootbaar, Lars",Lars Nootbaar,Lars Nootbaar,663457,nootbla01,nootl001,21454,4448736,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4448736.png
 ,,Jared Shuster,Jared Shuster,694363,,,,4623366,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4623366.png
+,,Bryan Woo,Bryan Woo,693433,,,,4629089,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4629089.png
+,,Bryce Miller,Bryce Miller,682243,millebr04,millb004,,4654313,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4654313.png
 ,,Zach Neto,Zach Neto,687263,,,,4666100,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4666100.png
+,,Austin Wells,Austin Wells,669224,wellsau01,wella002,27562,4683349,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4683349.png
 ,,Logan Allen,Logan Allen,671106,,,,4683350,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4683350.png
 Joan Adon,"Adon, Joan",Joan Adon,Joan Adon,672851,adonjo01,adonj001,22925,4684360,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4684360.png
 Andre Jackson,"Jackson, Andre",Andre Jackson,Andre Jackson,656578,jacksan01,jacka003,21298,4684364,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4684364.png
@@ -3134,7 +3174,9 @@ Kohei Arihara,"Arihara, Kohei",Kohei Arihara,Kohei Arihara,685503,arihako01,arih
 Kervin Castro,"Castro, Kervin",Kervin Castro,Kervin Castro,665645,castrke01,castk002,21656,4717832,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4717832.png
 ,,Yerry De Los Santos,Yerry De Los Santos,660787,delosye01,deloy001,21420,4717834,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4717834.png
 Tyler Wells,"Wells, Tyler",Tyler Wells,Tyler Wells,669330,wellsty01,wellt003,20000,4717904,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4717904.png
+,,Wyatt Langford,Wyatt Langford,694671,langfwy01,langw001,,4719324,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4719324.png
 ,,Brayan Bello,Brayan Bello,678394,bellobr01,bellb002,23920,4720856,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4720856.png
+,,Brandon Pfaadt,Brandon Pfaadt,694297,pfaadbr01,pfaab001,,4721302,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4721302.png
 ,,William Woods,William Woods,682016,woodswi02,woodw001,24606,4722117,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4722117.png
 ,,Spencer Steer,Spencer Steer,668715,steersp01,,,4722857,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4722857.png
 Jovani Moran,"Moran, Jovani",Jovani Moran,Jovani Moran,663558,moranjo01,moraj003,20422,4722926,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4722926.png
@@ -3142,6 +3184,9 @@ Cody Poteet,"Poteet, Cody",Cody Poteet,Cody Poteet,547001,poteeco01,potec001,187
 ,,Mason Miller,Mason Miller,695243,,,,4730225,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4730225.png
 Lucas Gilbreath,"Gilbreath, Lucas",Lucas Gilbreath,Lucas Gilbreath,656458,gilbrlu01,gilbl001,21290,4732550,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4732550.png
 ,,Bowden Francis,Bowden Francis,670102,francbo01,franb002,20548,4734325,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4734325.png
+,,Yainer Diaz,Yainer Diaz,673237,diazya02,,,4781491,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4781491.png
+,,Ben Joyce,Ben Joyce,690829,joycebe01,joycb001,,4867388,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4867388.png
+,,Yoshinobu Yamamoto,Yoshinobu Yamamoto,808967,yamamyo01,yamay001,,4872587,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4872587.png
 ,,Masataka Yoshida,Masataka Yoshida,807799,,,,4872598,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4872598.png
 Jose Marte,"Marte, Jose",Jose Marte,Jose Marte,665896,martejo01,martj010,21761,4875970,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4875970.png
 Francisco Perez,"Perez, Francisco",Francisco Perez,Francisco Perez,660906,perezfr01,peref002,21018,4879750,
@@ -3159,7 +3204,10 @@ Matt Brash,"Brash, Matt",Matt Brash,Matt Brash,666374,brashma01,brasm001,25756,4
 ,,Alexis Diaz,Alexis Diaz,664747,diazal03,diaza004,21132,4905920,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4905920.png
 ,,Adrian Martinez,Adrian Martinez,661309,martiad01,marta006,21023,4915829,
 ,,Ryne Nelson,Ryne Nelson,669194,nelsory01,nelsr003,,4916269,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4916269.png
+,,Elly De La Cruz,Elly De La Cruz,682829,delacel01,delae003,,4917694,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4917694.png
 Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001,26079,4917779,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4917779.png
+,,Eury Pérez,Eury Perez,691587,perezeu02,peree004,,4917854,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4917854.png
+,,Louie Varland,Louie Varland,686973,varlalo01,varll001,,4917888,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4917888.png&w=350&h=254
 ,,Colin Holderman,Colin Holderman,670059,holdeco01,holdc001,22361,4917897,
 ,,Levi Stoudt,Levi Stoudt,686651,,,,4918162,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4918162.png
 ,,Nick Vespi,Nick Vespi,663989,vespini01,vespn001,21093,4979568,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4979568.png
@@ -3169,18 +3217,19 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Bubby Rossman,Bubby Rossman,657745,rossmbu01,rossb001,17179,4997189,
 ,,Kevin Kelly,Kevin Kelly,687330,,,,5001153,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5001153.png
 ,,Brandon Hughes,Brandon Hughes,676714,hughebr01,hughb002,23460,5001301,
+,,Jackson Holliday,Jackson Holliday,702616,hollija01,,,5080633,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5080633.png
+,,Colin Selby,Colin Selby,681882,selbyco01,,24986,5116841,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5116841.png
 ,,Blake Sabol,Blake Sabol,666165,,,,5120296,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5120296.png
+,,Declan Cronin,Declan Cronin,686539,,,,5125258,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5125258.png
 ,,Fernando Cruz,,518585,cruzfe01,,,,
 ,,Michael Kelly,,547184,kellymi03,kellm004,,,
 ,,Wynton Bernard,,592144,bernawy01,bernw001,,,
 ,,A. J. Ladwig,,607609,,,,,
 ,,Chris Okey,,608360,okeych01,okeyc001,,,
-,,Elier Hernandez,Elier Hernandez,609274,hernael02,herne003,,33517,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33517.png
 ,,Jose Cuas,,621016,cuasjo01,cuasj001,17701,,
 ,,Collin Wiles,,621079,wilesco01,wilec001,15106,,
 ,,Luis Castillo,,622379,castilu03,castl004,,,
 ,,Huascar Brazoban,,623211,brazohu01,brazh001,,,
-,,Josh Lester,Josh Lester,623507,lestejo02,lestj002,,40837,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40837.png
 ,,Charles Leblanc,,641779,,,,,
 ,,Chuckie Robinson,,642020,robinch04,robic003,,,
 ,,Cody Thomas,,642137,thomaco01,,,,
@@ -3211,21 +3260,18 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Noah Davis,,663562,davisno01,davin001,25862,,
 ,,Thad Ward,,663658,,,,,
 ,,Hogan Harris,,663687,harriho03,,,,
-,,Cody Morris,Cody Morris,663752,morrico01,,,3960993,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/3960993.png
 ,,Bryan Hoeing,,663773,,,,,
 ,,Brendon Little,,663893,littlbr02,littb002,,,
 ,,Nick Plummer,,663911,plummni01,plumn001,,,
 ,,Tristan Beck,,663941,,,,,
 ,,Cesar Salazar,,663967,,,,,
 ,,Nick Duron,,663975,duronni01,duron001,,,
-,,Tyler Cyr,Tyler Cyr,664202,cyrty01,cyr-t001,,37972,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37972.png
 ,,Nathan Lukes,,664770,lukesna01,luken001,,,
 ,,Donny Sands,,664848,sandsdo01,,,,
 ,,Danny Young,,664849,youngda02,yound005,,,
 ,,James Naile,,664942,naileja01,nailj001,,,
 ,,Cam Vieaux,,664944,vieauca01,vieac001,,,
 ,,Brett Sullivan,,664954,,,,,
-,,Luis Medina,Luis Medina,665622,,,,40949,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40949.png
 ,,Enmanuel Valdez,,665839,,,,,
 ,,Javier Assad,,665871,assadja01,assaj001,,,
 ,,Simon Muzziotti,,665922,muzzisi01,muzzs001,,,
@@ -3233,12 +3279,10 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,George Soriano,,666277,,,,,
 ,,Edouard Julien,,666397,julieed01,,,,
 ,,Eguy Rosario,,666703,rosareg01,rosae002,,,
-,,Yerry Rodriguez,Yerry Rodriguez,666720,rodriye01,rodry002,21955,41267,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41267.png
 ,,Ryan Aguilar,,666922,aguilry01,aguir002,,,
 ,,Steele Walker,,667727,walkest01,walks001,,,
 ,,Nick Pratto,,668472,prattni01,pratn001,,,
 ,,Tanner Tully,,668684,tullyta01,tullt001,,,
-,,Conner Capel,Conner Capel,668843,capelco01,capec001,,38029,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/38029.png
 ,,Caleb Kilian,,668873,kiliaca01,kilic001,,,
 ,,Mark Vientos,,668901,vientma01,vienm001,,,
 ,,Ryan Kreidler,,668952,kreidry01,,,,
@@ -3252,7 +3296,6 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Michael Toglia,,669911,toglimi01,toglm001,,,
 ,,Jesse Scholtens,,669947,scholje01,,,,
 ,,Kenny Rosenberg,,670046,rosenke01,rosek001,,,
-,,Adam Oller,Adam Oller,670124,ollerad01,ollea001,20132,42170,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42170.png
 ,,Nate Mondou,,670148,mondona01,mondn001,19563,,
 ,,Jake Fishman,,670288,,,,,
 ,,Buddy Kennedy,,671083,kennebu01,kennb002,,,
@@ -3264,10 +3307,8 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Lenyn Sosa,,672820,sosale01,sosal001,,,
 ,,Israel Pineda,,672832,pinedis01,pinei001,,,
 ,,Carlos Vargas,,672841,,,,,
-,,Yainer Diaz,Yainer Diaz,673237,diazya02,,,4781491,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4781491.png
 ,,Luke Barker,,673316,barkelu01,barkl002,,,
 ,,Jake Walsh,,673904,walshja02,walsj002,,,
-,,Tommy Henry,Tommy Henry,674072,,,,4423337,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4423337.png
 ,,Michael Plassmeyer,,674681,plassmi01,plasm001,,,
 ,,José Butto,,676130,buttojo01,buttj001,,,
 ,,Freddy Tarnok,,676206,tarnofr01,,,,
@@ -3289,7 +3330,6 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Travis Swaggerty,,680552,swaggtr01,swagt001,,,
 ,,Richie Palacios,,680700,palacri01,palar002,,,
 ,,Josh Winder,,680739,windejo01,windj002,,,
-,,Peyton Burdick,Peyton Burdick,680814,burdipe01,burdp001,,42428,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42428.png
 ,,Jonah Bride,,681146,bridejo01,bridj001,,,
 ,,Franklin German,,681464,germafr02,germf002,24750,,
 ,,Kerry Carpenter,,681481,carpeke01,carpk001,,,
@@ -3307,12 +3347,10 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Will Brennan,,686823,brennwi02,brenw002,25660,,
 ,,McKinley Moore,,686842,mooremc01,,,,
 ,,Cole Waites,,686972,waiteco01,waitc001,,,
-,,Louie Varland,Louie Varland,686973,varlalo01,varll001,,4917888,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4917888.png&w=350&h=254
 ,,Brent Headrick,,687396,,,,,
 ,,Nate Fisher,,688010,fishena01,fishn001,,,
 ,,Jeff Lindgren,,689167,,,,,
 ,,Brett Wisely,,689172,,,,,
-,,Joey Ortiz,Joey Ortiz,687401,,,,42958,
 ,,Dominic Fletcher,,666150,,,,,
 ,,Tom Cosgrove,,676680,,,,,
 ,,Cody Bolton,,675989,,,,,
@@ -3323,33 +3361,21 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Jake Irvin,,663623,irvinja01,irvij001,,,
 ,,Juan Then,,672730,,,,,
 ,,Xavier Edwards,,669364,edwarxa01,edwax001,,,
-,,Brandon Pfaadt,Brandon Pfaadt,694297,pfaadbr01,pfaab001,,4721302,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4721302.png
-,,Bryce Miller,Bryce Miller,682243,millebr04,millb004,,4654313,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4654313.png
 ,,Matt Mervis,,670223,mervima01,mervm001,,,
-,,Gavin Stone,Gavin Stone,694813,stonega01,stong001,,4417230,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4417230.png
 ,,Braden Shewmake,,669699,shewmbr01,shewb001,,,
 ,,Zach Muckenhirn,,669105,muckeza01,muckz001,,,
-,,J. P. France,J.P. France,641585,,,,3662290,
 ,,David Fry,,681807,fryda01,fry-d001,,,
 ,,Garrett Acton,,670183,actonga01,actog001,,,
 ,,Lucas Erceg,,668674,erceglu01,ercel001,,,
 ,,T. J. Hopkins,,686759,,,,,
 ,,Randy Vásquez,,681190,vasqura02,vasqr001,,,
-,,Bryan Woo,Bryan Woo,693433,,,,4629089,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4629089.png
-,,Bobby Miller,Bobby Miller,676272,millebo06,millb005,,4326703,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4326703.png
 ,,Ryan Walker,,676254,walkery01,walkr001,,,
-,,Grant Anderson,Grant Anderson,681982,andergr01,andeg002,,42161,
-,,Matt McLain,Matt McLain,680574,mclaima01,mclam001,,4422899,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4422899.png
-,,Patrick Bailey,Patrick Bailey,672275,bailepa01,bailp001,,4345843,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4345843.png
 ,,Brayan Rocchio,,677587,rocchbr01,roccb001,,,
 ,,Brandon Williamson,,682227,willibr02,willb003,,,
 ,,Riley Pint,,666207,pintri01,pintr004,,,
 ,,Andruw Monasterio,,655316,monasan01,monaa001,,,
-,,Eury Pérez,Eury Perez,691587,perezeu02,peree004,,4917854,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4917854.png
 ,,Joe La Sorsa,,686747,lasorjo01,lasoj001,,,
-,,Ben Joyce,Ben Joyce,690829,joycebe01,joycb001,,4867388,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4867388.png
 ,,José Soriano,,667755,,,,,
-,,Cody Bradford,Cody Bradford,674003,bradfco01,bradc003,,4142539,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4142539.png
 ,,Reese Olson,,681857,olsonre01,,,,
 ,,Karl Kauffmann,,666154,kauffka01,kaufk001,,,
 ,,AJ Smith-Shawver,,700363,,,,,
@@ -3357,25 +3383,19 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Blair Calvo,,663971,calvobl01,calvb001,,,
 ,,Sam Bachman,,696147,bachmsa01,bachs001,,,
 ,,Josh Walker,,677020,walkejo03,walkj004,,,
-,,Luken Baker,Luken Baker,663609,,,,41313,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41313.png
 ,,Jake Alu,,666906,aluja01,alu-j001,,,
 ,,Eduardo Salazar,,674285,salazed01,salae001,,,
-,,Andrew Abbott,Andrew Abbott,671096,,,,4414528,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4414528.png
-,,Nick Robertson,Nick Robertson,687798,roberni01,roben002,,4311413,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4311413.png
 ,,Jonny Deluca,,676356,delucjo01,deluj001,,,
 ,,Joe Jacques,,682175,,,,,
 ,,Ty Adcock,,686654,,,,,
 ,,Grae Kessinger,,666197,kessigr01,kessg001,,,
 ,,Chris Murphy,,669684,murphch01,murpc001,,,
 ,,Coco Montes,,663796,,,,,
-,,Elly De La Cruz,Elly De La Cruz,682829,delacel01,delae003,,4917694,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4917694.png
 ,,Ricky Karcher,,676689,,,,,
 ,,José Lopez,,673111,,,,,
 ,,José Rodriguez,,679563,rodrijo09,rodrj008,24388,,
 ,,Matt Waldron,,663362,waldrma01,waldm003,25550,,
-,,Jordan Westburg,Jordan Westburg,676059,westbjo01,westj002,27815,4298641,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4298641.png
 ,,Angel Felipe,,665734,felipan01,felia001,21163,,
-,,Alex Speas,Alex Speas,666208,,,,40946,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40946.png
 ,,Dominic Canzone,,686527,canzodo01,canzd001,26438,,
 ,,David Hamilton,,666152,hamilda03,hamid002,27531,,
 ,,Tyler Soderstrom,,691016,soderty01,,,,
@@ -3385,23 +3405,17 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Alek Jacob,,689690,,,,,
 ,,Quinn Priester,,682990,,,,,
 ,,James McArthur,,663704,mcartja01,mcarj001,21527,,
-,,Owen White,Owen White,669391,whiteow01,whito001,22273,41244,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41244.png
 ,,Jake Wong,,673858,wongja01,wongj001,23095,,
-,,Alec Marsh,Alec Marsh,679525,marshal01,marsa001,27451,4424276,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4424276.png
 ,,Bryan Hudson,,663542,hudsobr01,hudsb001,19924,,
 ,,Shawn Dubin,,681869,dubinsh01,dubis001,24977,,
-,,Colton Cowser,Colton Cowser,681297,cowseco01,cowsc001,29591,4416990,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4416990.png
-,,Zack Gelof,Zack Gelof,680869,gelofza01,,,4414531,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4414531.png
 ,,Amos Willingham,,686294,william01,willa004,26128,,
 ,,Kolton Ingram,,688427,ingrako01,ingrk001,26068,,
 ,,Carmen Mlodzinski,,669387,mlodzca01,mlodc001,27572,,
 ,,Devin Sweet,,682967,,,,,
-,,Henry Davis,Henry Davis,680779,davishe01,davih001,29617,4418683,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4418683.png
 ,,Zach Remillard,,621545,remilza01,remiz001,19788,,
 ,,Abner Uribe,,682842,uribeab01,uriba001,25327,,
 ,,Victor Mederos,,682989,medervi01,medev001,31533,,
 ,,Brandon Walter,,687888,waltebr01,waltb002,26056,,
-,,Gavin Williams,Gavin Williams,668909,williga01,willg004,30122,4345076,
 ,,Justin Martinez,,679885,martiju01,martj011,24453,,
 ,,Brendan White,,686839,whitebr01,whitb002,26024,,
 ,,Dane Myers,,667472,myersda01,myerd001,22054,,
@@ -3411,7 +3425,6 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Isaiah Campbell,,663462,campbis01,campi001,25551,,
 ,,Randy Wynne,,691094,wynnera01,wynnr001,25804,,
 ,,Spencer Horwitz,,687462,horwisp01,horws001,26477,,
-,,Matt Krook,Matt Krook,640454,krookma01,kroom002,19315,41556,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41556.png
 ,,Jordan Balazovic,,666364,balazjo02,balaj001,21866,,
 ,,Taylor Kohlwey,,670128,,,,,
 ,,Samad Taylor,,669392,taylosa04,tayls003,22274,,
@@ -3440,23 +3453,136 @@ Beau Brieske,"Brieske, Beau",Beau Brieske,Beau Brieske,689225,briesbe01,brieb001
 ,,Daysbel Hernández,,678226,hernada03,hernd005,,,
 ,,Marco Luciano,,682617,luciama01,lucim001,,,
 ,,Jackson Wolf,,680232,wolfja01,wolfj001,,,
-,,Declan Cronin,Declan Cronin,686539,,,,5125258,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5125258.png
 ,,Davis Schneider,,676914,schneda03,schnd001,23565,,
-,,Lane Ramsey,Lane Ramsey,682010,ramsela02,ramsl001,25071,41997,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41997.png
 ,,Forrest Wall,,657088,wallfo01,wallf001,16496,,
-,,Jonathan Ornelas,Jonathan Ornelas,680716,orneljo01,ornej001,24597,41339,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41339.png
-,,J. P. Martínez,J.P. Martinez,679881,martijp01,,,40905,
-,,Curtis Mead,Curtis Mead,678554,meadcu01,meadc001,23986,42360,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42360.png
 ,,Ryder Ryan,,656924,ryanry01,,,,
 ,,Jacob Lopez,,682052,,,,,
 ,,Blake Rutherford,,666164,ruthebl01,ruthb001,19957,,
 ,,Osleivis Basabe,,678545,,,,,
 ,,Weston Wilson,,642215,wilsowe01,,19358,,
 ,,Lawrence Butler,,671732,butlela01,,,,
-,,Bryce Jarvis,Bryce Jarvis,686826,,,,4297972,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4297972.png
-,,Emerson Hancock,Emerson Hancock,676106,hancoem01,,27470,4297897,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4297897.png
 ,,Lyon Richardson,,680689,richaly01,richl001,24581,,
-,,Colin Selby,Colin Selby,681882,selbyco01,,24986,5116841,https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/5116841.png
 ,,José Tena,,677588,tenajo01,tenaj001,23691,,
 ,,Hagen Danner,,668470,danneha01,,,,
 ,,Wade Meckler,,685133,,,,,
+,,Hunter Goodman,,696100,goodmhu01,goodh001,29715,,
+,,Jackson Chourio,,694192,chourja01,chouj001,,,
+,,Drew Rom,,680723,romdr01,rom-d001,24602,,
+,,Anthony Molina,,683627,molinan01,molia001,,,
+,,Yuki Matsui,,673513,matsuyu01,matsy001,,,
+,,Andre Lipcius,,686531,lipcian01,lipca001,25822,,
+,,Caleb Boushley,,676961,boushca01,bousc001,19736,,
+,,Jung Hoo Lee,,808982,leeju01,lee-j001,,,
+,,Connor Phillips,,683175,phillco01,philc001,27649,,
+,,Austin Shenton,,668853,shentau01,shena001,,,
+,,Jordan Lawlar,,691783,lawlajo01,lawlj001,29976,,
+,,Victor Vodnik,,680767,vodnivi01,vodnv001,24614,,
+,,Blaze Alexander,,677942,alexabl01,alexb001,,,
+,,Darius Vines,,670241,vinesda01,vined001,25928,,
+,,Addison Barger,,680718,,,,,
+,,Chandler Seagle,,676882,seaglch01,seagc002,23552,,
+,,Ronny Mauricio,,677595,mauriro01,maurr002,23698,,
+,,Colt Keith,,690993,keithco01,keitc001,,,
+,,Jackson Rutledge,,671131,rutleja01,rutlj002,26215,,
+,,Justin Foscue,,679822,foscuju01,foscj001,,,
+,,Forrest Whitley,,666215,whitlfo01,,,,
+,,Carson Spiers,,686730,spierca01,spiec001,27685,,
+,,David Bañuelos,,675915,banueda01,,,,
+,,Masyn Winn,,691026,winnma01,winnm001,27479,,
+,,Shota Imanaga,,684007,imanash01,imans001,,,
+,,Jackson Merrill,,701538,merrija01,merrj002,,,
+,,Joey Estes,,683155,estesjo01,estej001,26257,,
+,,Stephen Kolek,,663568,kolekst01,koles001,,,
+,,Logan Porter,,682515,portelo01,portl001,20626,,
+,,Easton Lucas,,687922,lucasea01,lucae002,26058,,
+,,Kelvin Caceres,,680983,cacerke01,cacek001,24681,,
+,,Andrew Saalfrank,,685314,saalfan01,saala001,26203,,
+,,Jorge Barrosa,,678489,barrojo01,barrj004,,,
+,,Mason McCoy,,669200,mccoyma01,mccom002,22232,,
+,,Jack Leiter,,683004,leiteja01,,,,
+,,Jhonny Pereda,,640902,peredjh01,,,,
+,,Clayton Beeter,,690925,beetecl01,beetc001,,,
+,,Mitchell Parker,,680730,parkemi01,,,,
+,,Hunter Stratton,,676702,strathu01,strah001,23455,,
+,,Matt Sauer,,669422,sauerma01,sauem001,,,
+,,Jordan Wicks,,696136,wicksjo01,wickj001,30094,,
+,,Justin Slaten,,686580,slateju01,slatj002,,,
+,,Drew Millas,,686452,milladr01,milld003,25643,,
+,,Joe Boyle,,671212,boylejo01,boylj001,29608,,
+,,Landon Knack,,689017,knackla01,,,,
+,,Evan Justice,,687145,justiev01,juste001,30008,,
+,,Nolan Schanuel,,694384,schanno01,schan001,33189,,
+,,Evan Carter,,694497,carteev01,carte001,27790,,
+,,Wenceel Pérez,,672761,perezwe01,,,,
+,,Ricky Vanasco,,676568,vanasri01,,,,
+,,Orion Kerkering,,689147,kerkeor01,kerko001,31776,,
+,,Anthony Veneziano,,685107,venezan01,venea001,27453,,
+,,Luke Little,,681432,littllu01,littl001,28036,,
+,,Max Schuemann,,680474,schuema01,,,,
+,,Brenan Hanifee,,669724,hanifbr01,hanib001,22304,,
+,,Everson Pereira,,677592,pereiev01,peree005,23695,,
+,,Cole Winn,,668390,winnco01,,,,
+,,Jasson Domínguez,,691176,dominja01,domij003,28080,,
+,,Wilyer Abreu,,677800,abreuwi02,abrew002,23772,,
+,,Darell Hernaiz,,687231,hernada04,hernd006,,,
+,,Jacob Young,,696285,youngja03,younj004,29931,,
+,,Nick Avila,,687014,avilani01,aviln001,,,
+,,Andy Pages,,681624,pagesan01,,,,
+,,Kyle Nicolas,,693312,nicolky01,nicok001,27775,,
+,,Nick Hernandez,,663321,hernani01,hernn001,19281,,
+,,Kyle McCann,,668832,mccanky01,mccak004,,,
+,,Irving Lopez,,676761,lopezir01,lopei001,20463,,
+,,Roddery Muñoz,,682610,,,,,
+,,Jonatan Clase,,682729,clasejo01,,,,
+,,Mitch Spence,,687765,spencmi01,spenm001,,,
+,,Tristan Gray,,656484,graytr01,grayt001,19877,,
+,,Trey Lipscomb,,702358,lipsctr01,lipst001,,,
+,,Ceddanne Rafaela,,678882,rafaece01,rafac001,24262,,
+,,Junior Caminero,,691406,caminju01,camij001,28163,,
+,,Alexander Canario,,672744,canaral01,canaa001,22842,,
+,,Davis Daniel,,669721,danieda01,danid001,27582,,
+,,Pete Crow-Armstrong,,691718,crowape01,crowp001,27769,,
+,,Erik Miller,,669062,milleer01,mille002,,,
+,,Dedniel Núñez,,673380,nunezde01,,,,
+,,Graham Pauley,,688363,paulegr01,paulg001,,,
+,,Steven Cruz,,674444,cruzst01,cruzs001,23165,,
+,,Jair Camargo,,665856,camarja01,,,,
+,,Josh Maciejewski,,656671,maciejo01,,,,
+,,John McMillon,,669111,mcmiljo01,mcmij001,27942,,
+,,Nick Loftin,,679845,loftini01,loftn001,27630,,
+,,Jonathan Cannon,,686563,cannojo02,,,,
+,,Enmanuel De Jesus,,646241,dejesen01,dejee001,18554,,
+,,Jose Espada,,664744,espadjo01,espaj001,21131,,
+,,Yoendrys Gómez,,672782,gomezyo01,gomey002,22872,,
+,,Landen Roupp,,694738,rouppla01,roupl001,,,
+,,Ryan Fernandez,,681676,fernary01,fernr001,,,
+,,Kody Funderburk,,681892,fundeko01,fundk001,24993,,
+,,Anthony Maldonado,,687424,,,,,
+,,Nick Nastrini,,680897,nastrni01,,,,
+,,Blair Henley,,668874,henlebl01,,,,
+,,Tyler Cropley,,680418,croplty01,cropt001,24485,,
+,,Kyren Paris,,677347,parisky01,parik002,26420,,
+,,Cam Eden,,686490,edenca01,edenc001,25476,,
+,,Kyle Harrison,,690986,harriky01,harrk001,27758,,
+,,Parker Meadows,,678009,meadopa01,meadp001,23800,,
+,,Jonathan Bowlan,,680742,bowlajo01,bowlj001,24607,,
+,,Cade Smith,,671922,smithca06,smitc009,,,
+,,Tobias Myers,,668964,,,,,
+,,Ben Brown,,676962,brownbe02,browb006,,,
+,,Kyle Hurt,,669165,hurtky01,hurtk001,27514,,
+,,Tyler Jay,,664079,jayty01,,,,
+,,Pedro Pagés,,686780,pagespe02,,,,
+,,Sawyer Gipson-Long,,687830,gipsosa01,gipss001,26048,,
+,,Kai-Wei Teng,,678906,tengka01,tengk001,,,
+,,Yariel Rodríguez,,684320,rodriya01,,,,
+,,Nasim Nuñez,,683083,nunezna01,nunen001,,,
+,,Austin Martin,,668885,martiau01,marta007,,,
+,,Davis Wendzel,,673995,wendzda01,,,,
+,,Cam Booser,,592155,booseca01,,,,
+,,Victor Scott,,687363,scottvi01,scotv001,,,
+,,Jordan Leasure,,673929,leasujo01,leasj001,,,
+,,Oliver Dunn,,686554,dunnol01,dunno001,,,
+,,Tyler Fitzgerald,,666149,fitzgty01,fitzt001,26208,,
+,,Spencer Arrighetti,,681293,arrigsp01,,,,
+,,Noelvi Marte,,682622,marteno01,martn004,26517,,
+,,Jared Jones,,683003,jonesja09,jonej008,,,
