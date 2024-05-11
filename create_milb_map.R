@@ -27,8 +27,11 @@ team_map <- milb_teams |>
                            level == "High-A" ~ "A+",
                            level == "Single-A" ~ "A",
                            level == "Rookie" ~ "Rookie"),
+         parent_org_name = if_else(is.na(parent_org_name), team_name, parent_org_name),
+         parent_org_id = if_else(is.na(parent_org_id), team_id_num, parent_org_id),
          team_logo = paste0("https://www.mlbstatic.com/team-logos/", team_id_num, ".svg"),
-         team_cap_logo_on_light = paste0("https://www.mlbstatic.com/team-logos/team-cap-on-light/", team_id_num, ".svg")
+         team_cap_logo_on_light = paste0("https://www.mlbstatic.com/team-logos/team-cap-on-light/", team_id_num, ".svg"),
+         team_dot_logo = paste0("https://midfield.mlbstatic.com/v1/team/", team_id_num, "/spots/500")
   ) |>
   arrange(parent_org_name, desc(level))
 
