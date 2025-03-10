@@ -6,7 +6,7 @@ library(mlbplotR)
 teams <- load_mlb_teams() |>
   filter(!is.na(team_id_num))
 
-milb_teams <- map(teams$team_id_num, \(x) mlb_team_affiliates(x, season = 2024)) |>
+milb_teams <- map(teams$team_id_num, \(x) mlb_team_affiliates(x, season = 2025)) |>
   bind_rows()
 
 
